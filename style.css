@@ -54,8 +54,6 @@ nav{
 ul{
 	list-style-type: none;
 	padding: 12px;
-
-
 }
 
 li {
@@ -67,23 +65,23 @@ li {
 
 a.navlinks:hover {font-size: 1.1em;}
 
-a:link{
+a:link {
   color: blue;
 }
 
-a:visited{
+a:visited {
   color: blue;
 }
 
-a:hover{
+a:hover {
   color: blue;
 }
 
-a:focus{
+a:focus {
   color: blue;
 }
 
-a:active{
+a:active {
   color: blue;
 }
 
@@ -112,9 +110,9 @@ a:active{
 figcaption{
 	font-size: 1.4em;
 }
+
 footer {
  
-	
 	padding-bottom: 15px;
 	text-align: center;
 	background: #6799a4;
@@ -123,8 +121,6 @@ footer {
     bottom:0;
     left:0;
     height:35px;
-    width:100%;
-    
-	
+    width:100%;	
 }
 
