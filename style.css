@@ -1,0 +1,112 @@
+@media only screen and (max-width:620px){
+    h2, li, p, figcaption{
+       font-size:14px;
+}
+    }
+
+
+body {
+	min-width:590;
+	width: 100%;
+	font-family: 'Work Sans', sans-serif;
+}
+
+
+header {
+
+	height: 100px;
+	width: 100%;
+	padding-top: 25px;
+	background: #6799a4;
+}
+
+#logo {
+	
+	
+	/*width: 100px;
+	max-height: 70px;*/
+	/*position:fixed;*/
+	margin-right: 10px;
+	float: left;
+	clear:both;
+}
+
+.htext {
+	margin-left: 0px;
+	overflow: auto;
+	display: block;
+	
+
+}
+
+h2, li, figcaption  {
+	letter-spacing: 0.1em;
+}
+
+
+nav{
+	margin-top: -12px;
+	background: #cbeaec;
+	height: 50px;
+	font-size: 23px;
+
+
+}
+
+
+
+ul{
+	list-style-type: none;
+	padding: 12px;
+
+
+}
+
+li {
+	float: left;
+
+	padding-right: 40px;
+
+}
+a.navlinks:hover {font-size: 1.1em;}
+
+.images {
+	width: 100%;
+	height: 400px;
+	position: relative;
+	
+}
+
+.figure {
+	
+	width:45%;
+	float:left;
+	padding: 0;
+	margin: 2.5%;
+	
+}
+
+.figure3, .figure4 {
+
+	margin-bottom: 100px;
+
+}
+
+figcaption{
+	font-size: 1.4em;
+}
+footer {
+ 
+	
+	padding-bottom: 15px;
+	text-align: center;
+	background: #6799a4;
+
+	position:fixed;
+    bottom:0;
+    left:0;
+    height:35px;
+    width:100%;
+    
+	
+}
